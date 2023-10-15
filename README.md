@@ -5,15 +5,18 @@ I am a product, data, and technology leader with over 12 years of experience in 
 ## Professional Skills
 
 - **Product Management**: Experienced in creating product vision, strategy, roadmap, backlog, user stories, acceptance criteria, wireframes, prototypes, etc. Skilled in conducting market research, customer interviews, user testing, A/B testing, etc. Proficient in using tools such as Jira, Confluence, Trello, Figma, Miro, etc.
+  
 - **Data and Business Intelligence**: Experienced in designing and implementing data models, pipelines, warehouses, dashboards, reports, etc. Skilled in using SQL, Python, Tableau, Power BI,
  Google Analytics, etc. Familiar with data quality, security, privacy, and governance best practices.
+
 - **Salesforce.com**: Experienced in developing and deploying Salesforce.com solutions for various business needs such as sales automation, customer service management,
  marketing automation,
  etc. Skilled in using Apex,
  Visualforce,
  Lightning Components,
  SOQL/SOSL,
- etc. 
+ etc.
+
 - **Leadership and Team Management**: Experienced in leading cross-functional teams of product managers, developers, data engineers and data analysts, Salesforce.com developers, admins, consultants, etc. Skilled in hiring,
  coaching,
  mentoring,
@@ -58,6 +61,7 @@ I am a product, data, and technology leader with over 12 years of experience in 
  innovation,
  and excellence.
   - Participated in the investor board meetings.
+
 - **Technical Director for Corporate Ventures & Solutions at finleap connect GmbH** (2019 - 2020)
   - Designed products
  and technical solutions for new ventures
@@ -77,6 +81,7 @@ I am a product, data, and technology leader with over 12 years of experience in 
  technical blueprint,
  roadmap etc.
   - Supported other ventures in the finleap ecosystem with know-how in product development systems integration Salesforce.com business intelligence process design etc.
+
 - **VP of Technology at ELEMENT Insurance AG** (2019 - 2020)
   - Collaborated internally to choose the optimal technology to build
  and support ELEMENT’s insurance platform for internal external operations.
@@ -87,23 +92,27 @@ I am a product, data, and technology leader with over 12 years of experience in 
   - Optimized the operation process to showcase ELEMENT’s unique proposition to the market.
   - Implemented leaner faster processes for policy life-cycle claims operations.
   - Brought the product team members closer to the insurance specialists ensured the product followed legal standards industry best practices.
+
 - **Consultant for Product Tech Business Intelligence at WIND Mobility GmbH** (2017 - 2019)
   - Joined the company as one of the first three people focused on creating a great product customer experience.
   - Spearheaded the product development of our mobile application conducted market research customer interviews feature prioritization etc. to better manage our product customer satisfaction.
   - Lead the teams developing the mobile app customer service solution warehouse management solution solution to handle distribution pickup of vehicles.
   - Implemented Salesforce.com as the internal tool for operations customer service fully integrated Salesforce with the vehicles app to create the easiest most seamless experience for internal employees.
   - Implemented led the data analytics team contributed strategically to the company’s expansion to more countries cities.
+
 - **Director of Operations Business Intelligence - EU at Rakuten Deutschland GmbH** (2014 - 2018)
   - Spearheaded Europe’s sales customer service operations business intelligence Salesforce.com teams.
   - Designed implemented Salesforce.com as our internal tool for all internal operations designed implemented our business intelligence infrastructure reporting.
   - Set up the operations controlling methods for Rakuten’s sales team merchant onboarding support customer service drove initiatives for best user experience customer satisfaction merchant satisfaction in a continuous improvement process used a data-driven customer-centric approach to improve our performance reduced churn of merchants by 21% improved onboarding process adherence 34% for Rakuten Germany.
   - Catered 8 companies within the Rakuten umbrella with the implementation of best practices related to product development Salesforce.com business intelligence operations.
+
 - **Senior Sales Operations Manager EMEA at Groupon (Europe Middle East Africa)** (2012 - 2014)
   - Led the BI Salesforce sales operations teams for EMEA (24 countries).
   - Analyzed optimized the sales performance throughout all Groupon’s markets in EMEA.
   - Supported the EMEA top management with the creation reporting of sales challenges.
   - Responsible for all Salesforce.com product development data integration for Groupon EMEA managed partnerships with third-party companies providing services to our Salesforce instance modernized Salesforce processes with several integrations automation to support the effectiveness of our sales partner management teams.
   - Responsible for the creation maintenance of all sales customer service operations reports.
+
 - **Head of Operations LatAm at Groupon (Brazil)** (2011 - 2012)
   - Joined Groupon Brazil during its early stages recruited managed the lead generation Salesforce.com teams made Salesforce.com a useful reliable CRM in Groupon Brazil by creating designing country-specific workflows maintaining the system its data developed the methodologies to ensure the control training of the commercial area.
   - Oversaw designed redesigned business operations for the production of Groupon’s offers deals ensured the efficiency effectiveness of the business operations headed several initiatives to improve the performance in every presales department (services goods travel).
