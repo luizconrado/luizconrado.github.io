@@ -61,7 +61,7 @@ I am a product, data, and technology leader with over 12 years of experience in 
  innovation,
  and excellence.
   - Participated in the investor board meetings.
-<br>
+   
 
 - **Technical Director for Corporate Ventures & Solutions at finleap connect GmbH** (2019 - 2020)
   - Designed products
@@ -82,7 +82,7 @@ I am a product, data, and technology leader with over 12 years of experience in 
  technical blueprint,
  roadmap etc.
   - Supported other ventures in the finleap ecosystem with know-how in product development systems integration Salesforce.com business intelligence process design etc.
-<br>
+   
 
 - **VP of Technology at ELEMENT Insurance AG** (2019 - 2020)
   - Collaborated internally to choose the optimal technology to build
@@ -94,7 +94,7 @@ I am a product, data, and technology leader with over 12 years of experience in 
   - Optimized the operation process to showcase ELEMENT’s unique proposition to the market.
   - Implemented leaner faster processes for policy life-cycle claims operations.
   - Brought the product team members closer to the insurance specialists ensured the product followed legal standards industry best practices.
-<br>
+   
 
 - **Consultant for Product Tech Business Intelligence at WIND Mobility GmbH** (2017 - 2019)
   - Joined the company as one of the first three people focused on creating a great product customer experience.
@@ -102,14 +102,14 @@ I am a product, data, and technology leader with over 12 years of experience in 
   - Lead the teams developing the mobile app customer service solution warehouse management solution solution to handle distribution pickup of vehicles.
   - Implemented Salesforce.com as the internal tool for operations customer service fully integrated Salesforce with the vehicles app to create the easiest most seamless experience for internal employees.
   - Implemented led the data analytics team contributed strategically to the company’s expansion to more countries cities.
-<br>
+   
 
 - **Director of Operations Business Intelligence - EU at Rakuten Deutschland GmbH** (2014 - 2018)
   - Spearheaded Europe’s sales customer service operations business intelligence Salesforce.com teams.
   - Designed implemented Salesforce.com as our internal tool for all internal operations designed implemented our business intelligence infrastructure reporting.
   - Set up the operations controlling methods for Rakuten’s sales team merchant onboarding support customer service drove initiatives for best user experience customer satisfaction merchant satisfaction in a continuous improvement process used a data-driven customer-centric approach to improve our performance reduced churn of merchants by 21% improved onboarding process adherence 34% for Rakuten Germany.
   - Catered 8 companies within the Rakuten umbrella with the implementation of best practices related to product development Salesforce.com business intelligence operations.
-<br>
+   
 
 - **Senior Sales Operations Manager EMEA at Groupon (Europe Middle East Africa)** (2012 - 2014)
   - Led the BI Salesforce sales operations teams for EMEA (24 countries).
@@ -124,7 +124,7 @@ I am a product, data, and technology leader with over 12 years of experience in 
   - Oversaw designed redesigned business operations for the production of Groupon’s offers deals ensured the efficiency effectiveness of the business operations headed several initiatives to improve the performance in every presales department (services goods travel).
 - **Process Engineer Internship at SABÓ** (2009 - 2011)
   - Responsible for the development of products processes in manufacturing oil seals understood the customer's specifications designed new products decided on manufacturing processes design of machinery layout usage.
-<br>
+   
 
 ## Education
 
