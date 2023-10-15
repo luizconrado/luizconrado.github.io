@@ -121,6 +121,6 @@ I am a product, data, and technology leader with over 12 years of experience in 
 
 ## Education
 
-- **Universidade Presbiteriana Mackenzie** (2009 - 2011)
+- **Universidade Presbiteriana Mackenzie** (2003 - 2010)
   - Diploma in Production Engineering
   - Studied engineering principles and methods to design, manufacture, and optimize complex processes, systems, and organizations in various sectors such as services, goods, and travel. Learned how to improve efficiency, effectiveness, quality, and cost of the products and services. Acquired knowledge and skills in production, inventory, scheduling, process management, computer aided engineering, novel production processes, ergonomics, etc.
